@@ -67,4 +67,5 @@ Q2:
 * UI/UX requirement
 * sequirity requirement 
 * flexibility
+* scalability
 
